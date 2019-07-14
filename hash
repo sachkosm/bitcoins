@@ -4,3 +4,9 @@ Different data always maps to a different hash (within practical limitations).
 Is easy to compute.
 Is infeasible to convert hash to data.
 A small change in data leads to a large change in hash.
+
+
+A valid hash for a blockchain is a hash that meets a certain requirement. 
+For this blockchain, having three zeros at the beginning of the hash is the requirement for a valid hash.
+
+The number of leading zeros required is the 'difficulty'.
