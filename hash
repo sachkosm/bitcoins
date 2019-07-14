@@ -1,0 +1,6 @@
+Hash has a fixed length.
+Same data always maps to same hash.
+Different data always maps to a different hash (within practical limitations).
+Is easy to compute.
+Is infeasible to convert hash to data.
+A small change in data leads to a large change in hash.
